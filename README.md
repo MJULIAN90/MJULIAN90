@@ -16,7 +16,7 @@ Me considero apasionado por la programacion , Una persona emprendedora con mucha
  
 ## <a href="https://github.com/MJULIAN90/MI-PI-Food-FT-13" target="_blank">PI-FOOD</a>
 <p>Desarrollo de una SPA (Single Page Application) utilizando React para el Front End y Redux como state management. En los estilos se implementó CSS puro sin uso de librerías externas.
-La SPA consume datos de una API (https://spoonacular.com/food-api) a través de un Back End desarrollado en Node.JS utilizando Express, agregando nuevas funcionalidades a la API original. En el proyecto se pueden encontrar filtros (por nombre, por tipos de alimentos, por orden alfabético, por tipos de dietas, tambien podemos ver las recetas creados desde mi proyecto) donde hay un formulario para la creación de nuevas recetas de alimentosque se almacenan en una base de datos realizada con Sequelize y PostgreSQL.</p>
+La SPA consume datos de una API (https://spoonacular.com/food-api) a través de un Back End desarrollado en Node.JS utilizando Express, agregando nuevas funcionalidades a la API original. En el proyecto se pueden encontrar filtros (por nombre, por tipos de alimentos, por orden alfabético, por tipos de dietas, tambien podemos ver las recetas creados desde mi proyecto) donde hay un formulario para la creación de nuevas recetas de alimentos que se almacenan en una base de datos realizada con Sequelize y PostgreSQL.</p>
 
 
 
