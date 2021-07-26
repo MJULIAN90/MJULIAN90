@@ -1,6 +1,6 @@
 <img src="https://images.unsplash.com/photo-1607743386760-88ac62b89b8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1650&q=80" alt="c" width="1000" height="300"/>
 
-### Hola! Mi nombre es MARTIN JULIAN RUIZ 👋
+Mi nombre es MARTIN JULIAN RUIZ 👋
 
 Soy desarrollador Full Stack y Tecnologo en telecomunicaiones . Mi pasión es la programacion y el aprendizaje de  nuevas tecnologías para el desarrollo , con tendencia a la inteligencia artificial y la ciberseguridad. Tengo conocimiento en HTML | CSS | JavaScript | Python | C | C++ | NodeJS | React | Redux | Bootstrap | PostgreSQL | Express | Sequelize | GitHub | Git | TypeScript. A actualmente me encuentro capacitándome en React Native y TypeScript.
 
