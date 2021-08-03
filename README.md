@@ -20,7 +20,7 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 <a href="https://www.heroku.com/home" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FHeroku_logo.png&f=1&nofb=1" alt="Heroku" width="60" height="40"/> </a>
 
 
-                                                              Front End
+                                                             Front End
 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="40"/> </a> 
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.MD4sw9im4sftZA5u6mfFSgHaEK%26pid%3DApi&f=1" alt="Bootstrap" width="60" height="40"/> </a> 
@@ -39,12 +39,9 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="40"/> </a> 
 
-
  
  
- </div>
-
-
+ 
 
 
 
