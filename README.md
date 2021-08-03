@@ -25,11 +25,11 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 <a href="https://www.python.org/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.amYDKhBzsm2QiOwvtPpdJAAAAA%26pid%3DApi%26h%3D160&f=1" alt="Python" width="60" height="40"/> </a> 
 <a href="https://supabase.io//" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbookface-images.s3.amazonaws.com%2Flogos%2F08f3d41684b91f7d68810459b2356ecb4819c382.png&f=1&nofb=1" alt="Supabase" width="60" height="40"/> </a> 
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.MD4sw9im4sftZA5u6mfFSgHaEK%26pid%3DApi&f=1" alt="Bootstrap" width="60" height="40"/> </a> 
-<a href="https://sequelize.org/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP._SmZzhgGpZ5tHeUM8toUWQHaEK%26pid%3DApi&f=1" alt="Sequelize" width="60" height="40"/> </a>  
+<a href="https://sequelize.org/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.HgZ0btw9LNzzUj6_XGMgLwHaEK%26pid%3DApi&f=1" alt="Sequelize" width="60" height="40"/> </a>  
 <a href="https://socket.io/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdc722jrlp2zu8.cloudfront.net%2Fmedia%2Fcache%2F6e%2Fd2%2F6ed2408abf9bd0038b587018a116879d.jpg&f=1&nofb=1" alt="Socket.io" width="60" height="40"/> </a>
 <a href="https://vercel.com/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogovtor.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fvercel-inc-logo-vector.png&f=1&nofb=1" alt="Vercel" width="60" height="40"/> </a>
 <a href="https://www.heroku.com/home" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FHeroku_logo.png&f=1&nofb=1" alt="Heroku" width="60" height="40"/> </a>
-<a href="https://www.heroku.com/home" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FHeroku_logo.png&f=1&nofb=1" alt="Heroku" width="60" height="40"/> </a>
+
  
  
  </div>
