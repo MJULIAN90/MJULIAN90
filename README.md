@@ -38,12 +38,9 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="40"/> </a> 
 
  
- 
- 
+  
 
-  <> 
-
-<hr/>
+ <hr/>
 
 <h1 align="center"> Proyectos </h1>
  
