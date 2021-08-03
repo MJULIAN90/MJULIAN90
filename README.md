@@ -9,7 +9,7 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 
 ********
 
-                                                              Back End
+                                                             Back End
 
 <a href="https://expressjs.com" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdevtechnosys.com%2Finsights%2Fwp-content%2Fuploads%2F2019%2F06%2Fexpress-js-logo.png&f=1&nofb=1" alt="express" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F7e%2FNode.js_logo_2015.svg%2F1280px-Node.js_logo_2015.svg.png&f=1&nofb=1" alt="nodejs" width="60" height="40"/> </a> 
@@ -34,7 +34,7 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="40"/> </a> 
 
 
-En Curso
+                                                         En Curso
 
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="40"/> </a> 
