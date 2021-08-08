@@ -59,11 +59,16 @@ En las consultas a la API además se puede consultar detalles del lugar tales co
 <img align="right"  src="https://user-images.githubusercontent.com/76981775/128620177-56f1ad08-f776-45f6-81d7-7a3c22945c85.png" width="50%" height="10%">
 </div>
 
+
   <hr/>
-  Quieres saber más sobre mi?, ¡contáctame! <br/>
+  
+ <p>
+Quieres saber más sobre mi?, ¡contáctame! <br/>
 ✔ Linkedin: <a href="https://www.linkedin.com/in/Julian-Ruiz-V/">
  www.linkedin.com/in/Julian-Ruiz-V
 </a> <br/>
 ✔ WP: <a href="https://api.whatsapp.com/send?phone=3012321966&text=Hola%20,%20Dejame%20tu%20mensaje%20!%20Pronto%20te%20respondere!" target="_blank">+57 318 643 67 32 </a> (WhatsApp) <br/>
 ✔ E-mail: michaeljulian50@gmail.com <br/>
+</p>
+
   
