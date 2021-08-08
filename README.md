@@ -49,15 +49,17 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 La SPA consume datos de una API (https://spoonacular.com/food-api) a través de un Back End desarrollado en Node.JS utilizando Express, agregando nuevas funcionalidades a la API original. En el proyecto se pueden encontrar filtros (por nombre, por tipos de alimentos, por orden alfabético, por tipos de dietas, tambien podemos ver las recetas creados desde mi proyecto) donde hay un formulario para la creación de nuevas recetas de alimentos que se almacenan en una base de datos realizada con Sequelize y PostgreSQL.</p>
 
 ## <a href="https://github.com/MJULIAN90/API-Clima" target="_blank">API Clima</a>
-<p>
-Se desarrolló una SPA responsive en la cual se puede ingresar el nombre de ciudades o países para saber ciertos detalles y características de la región en cuestión donde se destaca principalmente su promedio de temperatura.
-En las consultas a la API además se puede consultar detalles del lugar tales como temperatura máxima, temperatura mínima, cantidad de nubes, latitud y longitud, temperatura promedio y velocidad del viento.
-</p>
 
 <p>
 <img align="left"  src="https://user-images.githubusercontent.com/76981775/128620968-02358d98-18a1-457f-bc50-054f69b70ea3.png" width="50%" height="10%">
 <img align="right"  src="https://user-images.githubusercontent.com/76981775/128620177-56f1ad08-f776-45f6-81d7-7a3c22945c85.png" width="50%" height="10%">
 </p>
+<p>
+Se desarrolló una SPA responsive en la cual se puede ingresar el nombre de ciudades o países para saber ciertos detalles y características de la región en cuestión donde se destaca principalmente su promedio de temperatura.
+En las consultas a la API además se puede consultar detalles del lugar tales como temperatura máxima, temperatura mínima, cantidad de nubes, latitud y longitud, temperatura promedio y velocidad del viento.
+</p>
+
+
 
   <hr/>
     <p>
