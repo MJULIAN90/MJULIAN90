@@ -37,10 +37,7 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="40"/> </a> 
 
- 
-  
-
- <hr/>
+<hr/>
 
 <h1 align="center"> Mis Proyectos </h1>
  
@@ -50,13 +47,16 @@ La SPA consume datos de una API (https://spoonacular.com/food-api) a través de 
 
 ## <a href="https://github.com/MJULIAN90/API-Clima" target="_blank">API Clima</a>
 
-<p>
-<img align="left"  src="https://user-images.githubusercontent.com/76981775/128620968-02358d98-18a1-457f-bc50-054f69b70ea3.png" width="50%" height="10%">
-<img align="right"  src="https://user-images.githubusercontent.com/76981775/128620177-56f1ad08-f776-45f6-81d7-7a3c22945c85.png" width="50%" height="10%">
-</p>
+
 <p>
 Se desarrolló una SPA responsive en la cual se puede ingresar el nombre de ciudades o países para saber ciertos detalles y características de la región en cuestión donde se destaca principalmente su promedio de temperatura.
 En las consultas a la API además se puede consultar detalles del lugar tales como temperatura máxima, temperatura mínima, cantidad de nubes, latitud y longitud, temperatura promedio y velocidad del viento.
+</p>
+
+<p>
+<img  src="https://user-images.githubusercontent.com/76981775/128620968-02358d98-18a1-457f-bc50-054f69b70ea3.png" width="50%" height="10%">
+    
+<img  src="https://user-images.githubusercontent.com/76981775/128620177-56f1ad08-f776-45f6-81d7-7a3c22945c85.png" width="50%" height="10%">
 </p>
 
 
