@@ -62,6 +62,7 @@ En las consultas a la API además se puede consultar detalles del lugar tales co
 
   <hr/>
   
+   <hr/>
  <p>
 Quieres saber más sobre mi?, ¡contáctame! <br/>
 ✔ Linkedin: <a href="https://www.linkedin.com/in/Julian-Ruiz-V/">
