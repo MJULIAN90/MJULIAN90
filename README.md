@@ -55,8 +55,8 @@ En las consultas a la API además se puede consultar detalles del lugar tales co
 </p>
 
 <div>
-<img align="left"  src="https://user-images.githubusercontent.com/76981775/128620968-02358d98-18a1-457f-bc50-054f69b70ea3.png" width="45%" height="10%">
-<img align="right"  src="https://user-images.githubusercontent.com/76981775/128620177-56f1ad08-f776-45f6-81d7-7a3c22945c85.png" width="45%" height="10%">
+<img align="left"  src="https://user-images.githubusercontent.com/76981775/128620968-02358d98-18a1-457f-bc50-054f69b70ea3.png" width="50%" height="10%">
+<img align="right"  src="https://user-images.githubusercontent.com/76981775/128620177-56f1ad08-f776-45f6-81d7-7a3c22945c85.png" width="50%" height="10%">
 </div>
 
   <hr/>
