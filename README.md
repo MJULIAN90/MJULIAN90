@@ -53,10 +53,10 @@ La SPA consume datos de una API (https://spoonacular.com/food-api) a través de 
 Se desarrolló una SPA responsive en la cual se puede ingresar el nombre de ciudades o países para saber ciertos detalles y características de la región en cuestión donde se destaca principalmente su promedio de temperatura.
 En las consultas a la API además se puede consultar detalles del lugar tales como temperatura máxima, temperatura mínima, cantidad de nubes, latitud y longitud, temperatura promedio y velocidad del viento.
 </p>
+
 <div>
-<img align="left"  src="https://user-images.githubusercontent.com/76981775/128620968-02358d98-18a1-457f-bc50-054f69b70ea3.png" width="33%" height="10%">
-<img align="center"  src="https://user-images.githubusercontent.com/76981775/128620913-0e47b4b4-79cf-4a76-80fe-126ce953ea31.png" width="33%" height="10%">
-<img align="right"  src="https://user-images.githubusercontent.com/76981775/128620181-d1f2609e-64fd-4ffb-9a68-d9ee9251b5ab.png" width="33%" height="10%"> 
+<img align="left"  src="https://user-images.githubusercontent.com/76981775/128620968-02358d98-18a1-457f-bc50-054f69b70ea3.png" width="45%" height="10%">
+<img align="right"  src="https://user-images.githubusercontent.com/76981775/128620177-56f1ad08-f776-45f6-81d7-7a3c22945c85.png" width="45%" height="10%">
 </div>
 
   <hr/>
