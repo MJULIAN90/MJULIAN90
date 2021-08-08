@@ -45,6 +45,13 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 <p>Desarrollo de una SPA (Single Page Application) utilizando React para el Front End y Redux como state management. En los estilos se implementó CSS puro sin uso de librerías externas.
 La SPA consume datos de una API (https://spoonacular.com/food-api) a través de un Back End desarrollado en Node.JS utilizando Express, agregando nuevas funcionalidades a la API original. En el proyecto se pueden encontrar filtros (por nombre, por tipos de alimentos, por orden alfabético, por tipos de dietas, tambien podemos ver las recetas creados desde mi proyecto) donde hay un formulario para la creación de nuevas recetas de alimentos que se almacenan en una base de datos realizada con Sequelize y PostgreSQL.</p>
 
+
+<p align="center">
+<img  src="https://user-images.githubusercontent.com/76981775/128621982-348f3de5-b60d-44f0-8af5-8eaa7d89e752.png" width="30%" >
+<img  src="https://user-images.githubusercontent.com/76981775/128622007-3bb1c171-a60f-47c3-9a7d-e0f90421a164.png" width="30%" >
+<img  src="https://user-images.githubusercontent.com/76981775/128622055-9e4b4e82-eb1d-4469-baeb-e5dd324fa2fb.png" width="30%" >
+</p>
+
 ## <a href="https://github.com/MJULIAN90/API-Clima" target="_blank">API Clima</a>
 
 
