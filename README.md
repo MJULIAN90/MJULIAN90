@@ -53,10 +53,10 @@ Se desarrolló una SPA responsive en la cual se puede ingresar el nombre de ciud
 En las consultas a la API además se puede consultar detalles del lugar tales como temperatura máxima, temperatura mínima, cantidad de nubes, latitud y longitud, temperatura promedio y velocidad del viento.
 </p>
 
-<p>
-<img  src="https://user-images.githubusercontent.com/76981775/128620968-02358d98-18a1-457f-bc50-054f69b70ea3.png" width="50%" height="10%">
+<p align="center">
+<img  src="https://user-images.githubusercontent.com/76981775/128620968-02358d98-18a1-457f-bc50-054f69b70ea3.png" width="40%" height="10%">
     
-<img  src="https://user-images.githubusercontent.com/76981775/128620177-56f1ad08-f776-45f6-81d7-7a3c22945c85.png" width="50%" height="10%">
+<img  src="https://user-images.githubusercontent.com/76981775/128620177-56f1ad08-f776-45f6-81d7-7a3c22945c85.png" width="40%" height="10%">
 </p>
 
 
