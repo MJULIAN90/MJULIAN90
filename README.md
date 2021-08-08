@@ -47,9 +47,9 @@ La SPA consume datos de una API (https://spoonacular.com/food-api) a través de 
 
 
 <p align="center">
-<img  src="https://user-images.githubusercontent.com/76981775/128621982-348f3de5-b60d-44f0-8af5-8eaa7d89e752.png" width="30%" >
-<img  src="https://user-images.githubusercontent.com/76981775/128622007-3bb1c171-a60f-47c3-9a7d-e0f90421a164.png" width="30%" >
-<img  src="https://user-images.githubusercontent.com/76981775/128622055-9e4b4e82-eb1d-4469-baeb-e5dd324fa2fb.png" width="30%" >
+<img  src="https://user-images.githubusercontent.com/76981775/128622094-4acf31db-1c89-4f83-9610-ba6a7ae60023.png" width="30%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/76981775/128622007-3bb1c171-a60f-47c3-9a7d-e0f90421a164.png" width="30%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/76981775/128622055-9e4b4e82-eb1d-4469-baeb-e5dd324fa2fb.png" width="30%" height='250px'>
 </p>
 
 ## <a href="https://github.com/MJULIAN90/API-Clima" target="_blank">API Clima</a>
