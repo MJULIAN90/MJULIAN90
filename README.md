@@ -42,7 +42,7 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 
  <hr/>
 
-<h1 align="center"> Proyectos </h1>
+<h1 align="center"> Mis Proyectos </h1>
  
 ## <a href="https://github.com/MJULIAN90/MI-PI-Food-FT-13" target="_blank">PI-FOOD</a>
 <p>Desarrollo de una SPA (Single Page Application) utilizando React para el Front End y Redux como state management. En los estilos se implementó CSS puro sin uso de librerías externas.
@@ -50,17 +50,14 @@ La SPA consume datos de una API (https://spoonacular.com/food-api) a través de 
 
 ## <a href="https://github.com/MJULIAN90/API-Clima" target="_blank">API Clima</a>
 <p>
-Se desarrolló una SPA en la cual se puede ingresar el nombre de ciudades o países para saber ciertos detalles y características de la región en cuestión donde se destaca principalmente su promedio de temperatura.
+Se desarrolló una SPA responsive en la cual se puede ingresar el nombre de ciudades o países para saber ciertos detalles y características de la región en cuestión donde se destaca principalmente su promedio de temperatura.
 En las consultas a la API además se puede consultar detalles del lugar tales como temperatura máxima, temperatura mínima, cantidad de nubes, latitud y longitud, temperatura promedio y velocidad del viento.
 </p>
-
-<img src="https://user-images.githubusercontent.com/76981775/128620968-02358d98-18a1-457f-bc50-054f69b70ea3.png" width="33%">
-<img src="https://user-images.githubusercontent.com/76981775/128620913-0e47b4b4-79cf-4a76-80fe-126ce953ea31.png" width="33%">
-<img src="https://user-images.githubusercontent.com/76981775/128620181-d1f2609e-64fd-4ffb-9a68-d9ee9251b5ab.png" width="33%">
-
-
-
-
+<div>
+<img align="left"  src="https://user-images.githubusercontent.com/76981775/128620968-02358d98-18a1-457f-bc50-054f69b70ea3.png" width="33%" height="10%">
+<img align="center"  src="https://user-images.githubusercontent.com/76981775/128620913-0e47b4b4-79cf-4a76-80fe-126ce953ea31.png" width="33%" height="10%">
+<img align="right"  src="https://user-images.githubusercontent.com/76981775/128620181-d1f2609e-64fd-4ffb-9a68-d9ee9251b5ab.png" width="33%" height="10%"> 
+</div>
 
   <hr/>
   Quieres saber más sobre mi?, ¡contáctame! <br/>
