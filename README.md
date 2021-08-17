@@ -24,20 +24,18 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 
     En Curso
 
-| <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" alt="HTML"> | <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6McQQU7i--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/j4hwcf7lntmqyha7ras5.png" width="60" alt="CSS"> | <img src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png" width="60" alt="JS">  | 
+| <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" alt="HTML"> | <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6McQQU7i--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/j4hwcf7lntmqyha7ras5.png" width="70" alt="CSS"> | <img src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png" width="60" alt="JS">  | 
 | :------------: | :------------: | :------------: | 
 | REACT NATIVE  | TYPE SCRIPT | MONGO DB  |  
 
 
     Extras
     
-<a href="https://supabase.io//" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbookface-images.s3.amazonaws.com%2Flogos%2F08f3d41684b91f7d68810459b2356ecb4819c382.png&f=1&nofb=1" alt="Supabase" width="60" height="40"/> </a> 
-<a href="https://socket.io/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdc722jrlp2zu8.cloudfront.net%2Fmedia%2Fcache%2F6e%2Fd2%2F6ed2408abf9bd0038b587018a116879d.jpg&f=1&nofb=1" alt="Socket.io" width="60" height="40"/> </a>
-<a href="https://www.heroku.com/home" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FHeroku_logo.png&f=1&nofb=1" alt="Heroku" width="60" height="40"/> </a>
-<a href="https://vercel.com/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogovtor.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fvercel-inc-logo-vector.png&f=1&nofb=1" alt="Vercel" width="60" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="40"/> </a> 
-<hr/>
+| <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbookface-images.s3.amazonaws.com%2Flogos%2F08f3d41684b91f7d68810459b2356ecb4819c382.png&f=1&nofb=1" width="60" alt="HTML"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdc722jrlp2zu8.cloudfront.net%2Fmedia%2Fcache%2F6e%2Fd2%2F6ed2408abf9bd0038b587018a116879d.jpg&f=1&nofb=1" width="60" alt="CSS"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FHeroku_logo.png&f=1&nofb=1" width="60" alt="JS">  | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogovtor.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fvercel-inc-logo-vector.png&f=1&nofb=1" width="60" alt="REACT"> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" alt="REACT"> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" alt="REACT"> |
+| :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
+| SUPABASE  | SOCKET IO | HEROKU  | VERCEL | FIGMA | GIT |
+    
+********
 
 <h1 align="center"> Mis Proyectos </h1>
  
