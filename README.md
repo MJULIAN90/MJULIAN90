@@ -10,14 +10,19 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 ********
 
     Back End
+    
+| <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdevtechnosys.com%2Finsights%2Fwp-content%2Fuploads%2F2019%2F06%2Fexpress-js-logo.png&f=1&nofb=1" width="60" alt="HTML"> | 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F7e%2FNode.js_logo_2015.svg%2F1280px-Node.js_logo_2015.svg.png&f=1&nofb=1" width="60" alt="CSS"> | 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.7AOhGDnRL2eyJMUidCHZEAHaDt%26pid%3DApi&f=1" width="50" alt="JS">  | 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.HgZ0btw9LNzzUj6_XGMgLwHaEK%26pid%3DApi&f=1" width="60" alt="REACT"> | 
+| :------------: | :------------: | :------------: | :------------: | 
+| Express  | Node JS | PostgreSQL  | Sequelize|     
 
-<a href="https://expressjs.com" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdevtechnosys.com%2Finsights%2Fwp-content%2Fuploads%2F2019%2F06%2Fexpress-js-logo.png&f=1&nofb=1" alt="express" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F7e%2FNode.js_logo_2015.svg%2F1280px-Node.js_logo_2015.svg.png&f=1&nofb=1" alt="nodejs" width="60" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.7AOhGDnRL2eyJMUidCHZEAHaDt%26pid%3DApi&f=1" alt="postgresql" width="60" height="40"/> </a>
-<a href="https://supabase.io//" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbookface-images.s3.amazonaws.com%2Flogos%2F08f3d41684b91f7d68810459b2356ecb4819c382.png&f=1&nofb=1" alt="Supabase" width="60" height="40"/> </a> 
-<a href="https://sequelize.org/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.HgZ0btw9LNzzUj6_XGMgLwHaEK%26pid%3DApi&f=1" alt="Sequelize" width="60" height="40"/> </a>
-<a href="https://socket.io/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdc722jrlp2zu8.cloudfront.net%2Fmedia%2Fcache%2F6e%2Fd2%2F6ed2408abf9bd0038b587018a116879d.jpg&f=1&nofb=1" alt="Socket.io" width="60" height="40"/> </a>
-<a href="https://www.heroku.com/home" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FHeroku_logo.png&f=1&nofb=1" alt="Heroku" width="60" height="40"/> </a>
+
+
+
+
+
 
     Front End 
 
@@ -37,6 +42,12 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="40"/> </a> 
 
+
+    Extras
+    
+<a href="https://supabase.io//" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbookface-images.s3.amazonaws.com%2Flogos%2F08f3d41684b91f7d68810459b2356ecb4819c382.png&f=1&nofb=1" alt="Supabase" width="60" height="40"/> </a> 
+<a href="https://socket.io/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdc722jrlp2zu8.cloudfront.net%2Fmedia%2Fcache%2F6e%2Fd2%2F6ed2408abf9bd0038b587018a116879d.jpg&f=1&nofb=1" alt="Socket.io" width="60" height="40"/> </a>
+<a href="https://www.heroku.com/home" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FHeroku_logo.png&f=1&nofb=1" alt="Heroku" width="60" height="40"/> </a>
 <hr/>
 
 <h1 align="center"> Mis Proyectos </h1>
