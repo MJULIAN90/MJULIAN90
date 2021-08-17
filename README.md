@@ -24,7 +24,7 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 
     En Curso
 
-| <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" alt="HTML"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F7e%2FNode.js_logo_2015.svg%2F1280px-Node.js_logo_2015.svg.png&f=1&nofb=1" width="60" alt="CSS"> | <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvictorroblesweb.es%2F2016%2F12%2F24%2Fcrear-una-base-datos-mongodb%2F&psig=AOvVaw0qIj1zjoP_Yk5mSoKCUhiV&ust=1629318463414000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPi_hLbyuPICFQAAAAAdAAAAABAD" width="60" alt="JS">  | 
+| <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" alt="HTML"> | <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6McQQU7i--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/j4hwcf7lntmqyha7ras5.png" width="60" alt="CSS"> | <img src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png" width="60" alt="JS">  | 
 | :------------: | :------------: | :------------: | 
 | REACT NATIVE  | TYPE SCRIPT | MONGO DB  |  
 
