@@ -8,12 +8,13 @@ Soy desarrollador Full Stack y Tecnólogo en telecomunicaciones. Mi pasión es l
 Me considero apasionado por la programación, Una persona emprendedora con muchas ideas en el área de la información una persona apasionada por el aprendizaje constante de nuevas tecnologías y a la espera de los nuevos desafíos. Me encanta tener buena relaciones, mejorando la comunicación constante. Tengo constante búsqueda del progreso personal apoyando el desarrollo grupal de mis actividades cotidianas.
 
 ********
-
+<p align="center">
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MJULIAN90&theme=radical' />
-
+</p>
 ********
+<p align="center">
 <img src='https://github-readme-stats.vercel.app/api?username=MJULIAN90&show_icons=true&theme=radical' />
-
+</p>
 
 ********
 
