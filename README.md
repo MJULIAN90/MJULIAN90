@@ -9,10 +9,10 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 
 ********
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=MJULIAN90&theme=radical
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MJULIAN90&theme=radical' />
 
 ********
-https://github-readme-stats.vercel.app/api?username=MJULIAN90&show_icons=true&theme=radical
+<img src=' https://github-readme-stats.vercel.app/api?username=MJULIAN90&show_icons=true&theme=radical' />
 
 
 ********
