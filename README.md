@@ -74,7 +74,7 @@ El objetivo es acercar a las personas en el intercambio de activos, mediante una
 <img  src="https://user-images.githubusercontent.com/76981775/130149667-fe25bee4-296c-4ed5-906e-7ffcecff1d5f.png" width="30%" height='250px'>
 </p>
 
-✔ web site: <a href="https://rocketxchange.vercel.app/">
+✔ web site: <a href="https://rocketxchange.vercel.app/" target="_blank">
 ROCKET EXCHANGE
 </a> 
 
@@ -91,7 +91,7 @@ La SPA consume datos de una API (https://spoonacular.com/food-api) a través de 
 <img  src="https://user-images.githubusercontent.com/76981775/128622055-9e4b4e82-eb1d-4469-baeb-e5dd324fa2fb.png" width="30%" height='250px'>
 </p>
 
-✔ web site: <a href="https://mi-pi-food-ft-13-mjulian90.vercel.app/">
+✔ web site: <a href="https://mi-pi-food-ft-13-mjulian90.vercel.app/" target="_blank">
 MIS RECETAS
 </a> 
 
