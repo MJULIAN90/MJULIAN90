@@ -48,6 +48,37 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 ********
 
 <h1 align="center"> Mis Proyectos </h1>
+
+
+## <a href="https://github.com/MJULIAN90/Exchange-ProyectoFinal" target="_blank">ROCKET EXCHANGE</a>
+<p>
+Se Creo una plataforma que permite conectar a las personas a la red de blockchain donde pueden intercambiar sus activos por cualquier otra clase de divisas, tanto fiats como criptomonedas. 
+
+
+ ***Para ello utilizamos la red Stellar, ahora bien ¿Por qué red Stellar?***
+
+<ol>
+  <li>Permite la compatibilidad entre cualquier tipo de activos.</li>
+  <li>Los costos de operaciones son muy bajos.</li>
+  <li>El protocolo en el que está basado permite la escalabilidad a futuro (en cantidad de transacciones posibles a realizar).</li>
+  <li>Es sustentable ya que no hace uso de la minería porque la considera nociva al medio ambiente.</li>
+</ol>
+
+El objetivo es acercar a las personas en el intercambio de activos, mediante una interfaz sencilla y amigable que posibilita transacciones de forma segura y rápida entre dinero y criptodivisas.
+</p>
+
+
+<p align="center">
+<img  src="https://user-images.githubusercontent.com/76981775/130149215-bbae8143-9fed-46b6-80dd-d6ca04d000e1.png" width="30%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/76981775/130149625-f01e6be0-6514-4c54-a6c1-948e3a4a601f.png" width="30%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/76981775/130149667-fe25bee4-296c-4ed5-906e-7ffcecff1d5f.png" width="30%" height='250px'>
+</p>
+
+✔ web site: <a href="https://rocketxchange.vercel.app/">
+https://rocketxchange.vercel.app/
+</a> 
+
+********
  
 ## <a href="https://github.com/MJULIAN90/MI-PI-Food-FT-13" target="_blank">PI-FOOD</a>
 <p>Desarrollo de una SPA (Single Page Application) utilizando React para el Front End y Redux como state management. En los estilos se implementó CSS puro sin uso de librerías externas.
@@ -59,6 +90,8 @@ La SPA consume datos de una API (https://spoonacular.com/food-api) a través de 
 <img  src="https://user-images.githubusercontent.com/76981775/128622007-3bb1c171-a60f-47c3-9a7d-e0f90421a164.png" width="30%" height='250px'>
 <img  src="https://user-images.githubusercontent.com/76981775/128622055-9e4b4e82-eb1d-4469-baeb-e5dd324fa2fb.png" width="30%" height='250px'>
 </p>
+
+********
 
 ## <a href="https://github.com/MJULIAN90/API-Clima" target="_blank">API Clima</a>
 
