@@ -49,6 +49,41 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 
 <h1 align="center"> Mis Proyectos </h1>
 
+## <a href="https://github.com/MJULIAN90/React-Native-wallet-usd-btc" target="_blank">ROCKET WALLET</a>
+
+### ¿Qué es?
+
+Se creyó una App para dispositivo móvil que permite el intercambio de la divisa USD por la criptomoneda BTC la cual se efectúa con el precio del instante del BTC en el mercado de criptodivisas la cual se van guardando en una base de datos que nos permite simular la funcionalidad de una wallet real.
+
+********
+
+### ¿Cómo se hizo?
+
+
+Se implementó tanto el back end, como el front end. En la parte del back end se utilizaron tecnologías como son:
+
+* Node Js que nos permite un entorno de tiempo de ejecución multiplataforma de JavaScript orientado a eventos asíncronos.
+
+* Express Js que nos permite el direccionamiento de las diferentes rutas creadas que serán utilizadas en nuestra aplicación móvil.
+
+* PostgreSQL que nos permite el uso de las bases de datos donde guardamos la información de los usuarios, tanto sus balances, registro de usuarios, movimientos de cada una de las cuentas que tenemos en el sistema.
+
+* Sequelize que es un ORM que permite a los usuarios llamar a funciones JavaScript para interactuar con SQL DB sin escribir consultas reales. Nos fue bastante útil para acelerar el tiempo de desarrollo de nuestra aplicación
+
+* React Native que fue el que nos permitió el desarrollo de la aplicación que podemos adecuar tanto para los sistemas IOS como los sistemas ANDROID.
+
+<p align="center">
+<img  src="https://user-images.githubusercontent.com/76981775/130434735-5832e1c5-fbb9-4f6e-8787-2a2f222dd994.png" width="30%" height='500px'>
+<img  src="https://user-images.githubusercontent.com/76981775/130434806-dfa3df3f-69ca-4b7c-8df0-bc825ffaacff.png" width="30%" height='500px'>
+<img  src="https://user-images.githubusercontent.com/76981775/130434924-f18e20c0-70f4-4a06-b41e-ef3e89d9f8f6.png" width="30%" height='500px'>
+</p>
+
+✔ web site: <a href="https://github.com/MJULIAN90/React-Native-wallet-usd-btc/blob/main/README.md" target="_blank">
+PROXIMAMENTE
+</a> 
+
+********
+
 
 ## <a href="https://github.com/MJULIAN90/Exchange-ProyectoFinal" target="_blank">ROCKET EXCHANGE</a>
 <p>
