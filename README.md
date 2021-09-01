@@ -79,7 +79,7 @@ Se implementó tanto el back end, como el front end. En la parte del back end se
 </p>
 
 ✔ web site: <a href="https://github.com/MJULIAN90/React-Native-wallet-usd-btc/blob/main/README.md" target="_blank">
-PROXIMAMENTE
+MAS INFORMACION
 </a> 
 
 ********
