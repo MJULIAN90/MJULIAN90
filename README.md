@@ -105,8 +105,8 @@ Es una App en React Native en la cual interactuamos con una API proporcionada po
 Se utilizo react native expo para el desarrollo de la App, se implemento el metodo de navegacion de Stack Navigator con el cual nos ayuda a redirigirnos a otras paginas , y se centralizo todos los estilos en un archivo global.
 
 
-✔ web site: <a href="https://github.com/MJULIAN90/Marvel-App" target="_blank">
-PROXIMAMENTE
+✔ web site:  <a href="https://github.com/MJULIAN90/Marvel-App" target="_blank">
+MAS INFORMACION
 </a> 
 
 ********
