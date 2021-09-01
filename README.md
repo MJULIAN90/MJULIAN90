@@ -92,15 +92,18 @@ Es una App en React Native en la cual interactuamos con una API proporcionada po
 
 ********
 
-### ¿Cómo se hizo?
-
-Se utilizo react native expo para el desarrollo de la App, se implemento el metodo de navegacion de Stack Navigator con el cual nos ayuda a redirigirnos a otras paginas , y se centralizo todos los estilos en un archivo global.
-
 <p align="center">
 <img  src="https://user-images.githubusercontent.com/76981775/131618702-19460633-794e-4a5d-9372-04178effb37b.png" width="30%" height='450px'>
 <img  src="https://user-images.githubusercontent.com/76981775/131618760-77c810d7-84aa-4311-affa-a904c7185bf0.png" width="30%" height='450px'>
 <img  src="https://user-images.githubusercontent.com/76981775/131618828-eeed9522-3983-4e49-8eff-6339a3d18e86.png" width="30%" height='450px'>
 </p>
+
+********
+
+### ¿Cómo se hizo?
+
+Se utilizo react native expo para el desarrollo de la App, se implemento el metodo de navegacion de Stack Navigator con el cual nos ayuda a redirigirnos a otras paginas , y se centralizo todos los estilos en un archivo global.
+
 
 ✔ web site: <a href="https://github.com/MJULIAN90/Marvel-App" target="_blank">
 PROXIMAMENTE
