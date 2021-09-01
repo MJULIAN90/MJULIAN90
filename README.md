@@ -84,7 +84,7 @@ MAS INFORMACION
 
 ********
 
-## <a href="https://github.com/MJULIAN90/React-Native-wallet-usd-btc" target="_blank">MARVEL APP</a>
+## <a href="https://github.com/MJULIAN90/Marvel-App" target="_blank">MARVEL APP</a>
 
 ### ¿Qué es?
 
