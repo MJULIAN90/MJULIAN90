@@ -97,6 +97,11 @@ Agregamos diferentes librerias que nos permite extraer los colores de las imagen
 <img  src="https://user-images.githubusercontent.com/76981775/134852439-e5adf465-d6f4-4240-bbd0-f8addc74da5c.png" width="40%" height='500px'>
 </p>
 
+
+✔ web site: <a href="https://github.com/MJULIAN90/Peliculas-App-TS-Mobile" target="_blank">
+PROXIMAMENTE
+</a> 
+
 ********
 
 
