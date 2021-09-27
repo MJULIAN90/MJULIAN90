@@ -93,8 +93,8 @@ Agregamos diferentes librerias que nos permite extraer los colores de las imagen
 </p>
 
 <p align="center">
-<img  src="https://user-images.githubusercontent.com/76981775/134852270-54a8b55c-0cf6-4cdc-aae6-85d6f47429b1.png" width="40%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/76981775/134852439-e5adf465-d6f4-4240-bbd0-f8addc74da5c.png" width="40%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/76981775/134852270-54a8b55c-0cf6-4cdc-aae6-85d6f47429b1.png" width="40%" height='500px'>
+<img  src="https://user-images.githubusercontent.com/76981775/134852439-e5adf465-d6f4-4240-bbd0-f8addc74da5c.png" width="40%" height='500px'>
 </p>
 
 ********
