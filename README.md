@@ -34,9 +34,9 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 
     En Curso
 
-| <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" alt="HTML"> | <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6McQQU7i--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/j4hwcf7lntmqyha7ras5.png" width="70" alt="CSS"> | <img src="https://victorroblesweb.es/wp-content/uploads/2016/11/mongodb.png" width="60" alt="JS">  | 
-| :------------: | :------------: | :------------: | 
-| REACT NATIVE  | TYPE SCRIPT | MONGO DB  |  
+| <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" alt="HTML"> | <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6McQQU7i--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/j4hwcf7lntmqyha7ras5.png" width="70" alt="CSS"> |
+| :------------: | :------------: |  
+| REACT NATIVE  | TYPE SCRIPT |  
 
 
     Extras
