@@ -84,32 +84,22 @@ MAS INFORMACION
 
 ********
 
-## <a href="https://github.com/MJULIAN90/Marvel-App" target="_blank">MARVEL APP</a>
+## <a href="https://github.com/MJULIAN90/Peliculas-App-TS-Mobile" target="_blank">MOVIES APP</a>
 
-### ¿Qué es?
 
-Es una App en React Native en la cual interactuamos con una API proporcionada por MARVEL en la cual podemos traer informacion de sus personajes , toda su informacion relacionada con sus historietas y una descripciones de ellas.
-
-********
+<p>
+Se creo una App en React Native con TypeScript en la cual consumimos una API externa que nos proporciona los datos de peliculas como las de mejor ranking , proximas a salir a cine y mas populares y ver sus principales caracteristicas como son: sus actores, su historia, su presupuesto y mucho mas.
+Agregamos diferentes librerias que nos permite extraer los colores de las imagenes para darles efectos de color de fondo a cada pelicula que vamos deslizando, Se implementaron diferentes hooks como el useContext , useEffect , useState , entre otros. se utilizo gradientes para dar una mejor apariencia a la App en sus estilos.  
+</p>
 
 <p align="center">
-<img  src="https://user-images.githubusercontent.com/76981775/131618702-19460633-794e-4a5d-9372-04178effb37b.png" width="30%" height='450px'>
-<img  src="https://user-images.githubusercontent.com/76981775/131618760-77c810d7-84aa-4311-affa-a904c7185bf0.png" width="30%" height='450px'>
-<img  src="https://user-images.githubusercontent.com/76981775/131618828-eeed9522-3983-4e49-8eff-6339a3d18e86.png" width="30%" height='450px'>
+<img  src="https://user-images.githubusercontent.com/76981775/134852270-54a8b55c-0cf6-4cdc-aae6-85d6f47429b1.png" width="40%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/76981775/134852439-e5adf465-d6f4-4240-bbd0-f8addc74da5c.png" width="40%" height='250px'>
 </p>
 
 ********
 
-### ¿Cómo se hizo?
 
-Se utilizo react native expo para el desarrollo de la App, se implemento el metodo de navegacion de Stack Navigator con el cual nos ayuda a redirigirnos a otras paginas , y se centralizo todos los estilos en un archivo global.
-
-
-✔ web site:  <a href="https://www.youtube.com/watch?v=h9Hanc4Opic" target="_blank">
-MAS INFORMACION
-</a> 
-
-********
 
 ## <a href="https://github.com/MJULIAN90/Exchange-ProyectoFinal" target="_blank">ROCKET EXCHANGE</a>
 <p>
@@ -158,19 +148,33 @@ MIS RECETAS
 
 ********
 
-## <a href="https://github.com/MJULIAN90/API-Clima" target="_blank">API Clima</a>
 
+## <a href="https://github.com/MJULIAN90/Marvel-App" target="_blank">MARVEL APP</a>
 
-<p>
-Se desarrolló una SPA responsive en la cual se puede ingresar el nombre de ciudades o países para saber ciertos detalles y características de la región en cuestión donde se destaca principalmente su promedio de temperatura.
-En las consultas a la API además se puede consultar detalles del lugar tales como temperatura máxima, temperatura mínima, cantidad de nubes, latitud y longitud, temperatura promedio y velocidad del viento.
-</p>
+### ¿Qué es?
+
+Es una App en React Native en la cual interactuamos con una API proporcionada por MARVEL en la cual podemos traer informacion de sus personajes , toda su informacion relacionada con sus historietas y una descripciones de ellas.
+
+********
 
 <p align="center">
-<img  src="https://user-images.githubusercontent.com/76981775/128620968-02358d98-18a1-457f-bc50-054f69b70ea3.png" width="40%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/76981775/128620177-56f1ad08-f776-45f6-81d7-7a3c22945c85.png" width="40%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/76981775/131618702-19460633-794e-4a5d-9372-04178effb37b.png" width="30%" height='450px'>
+<img  src="https://user-images.githubusercontent.com/76981775/131618760-77c810d7-84aa-4311-affa-a904c7185bf0.png" width="30%" height='450px'>
+<img  src="https://user-images.githubusercontent.com/76981775/131618828-eeed9522-3983-4e49-8eff-6339a3d18e86.png" width="30%" height='450px'>
 </p>
 
+********
+
+### ¿Cómo se hizo?
+
+Se utilizo react native expo para el desarrollo de la App, se implemento el metodo de navegacion de Stack Navigator con el cual nos ayuda a redirigirnos a otras paginas , y se centralizo todos los estilos en un archivo global.
+
+
+✔ web site:  <a href="https://www.youtube.com/watch?v=h9Hanc4Opic" target="_blank">
+MAS INFORMACION
+</a> 
+
+********
 
 
   <hr/>
