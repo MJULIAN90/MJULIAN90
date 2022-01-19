@@ -28,15 +28,16 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 
     Front End 
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" alt="HTML"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.MD4sw9im4sftZA5u6mfFSgHaEK%26pid%3DApi&f=1" width="60" alt="CSS"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" alt="JS">  | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" alt="REACT"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" alt="REACT"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="60" alt="REACT"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbitfumes.sfo2.digitaloceanspaces.com%2Fimages%2Fplaylists%2FIr7ejh9mZOlrWlNH.jpg&f=1&nofb=1" width="60" alt="REACT"> |
-| :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
-| CSS3  | BOOTSTRAP | HTML5  | JAVASCRIPT | REACT JS  | REDUX | NEXT JS |
+| <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" alt="HTML"> |
+| :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | | :------------: |
+| CSS3  | BOOTSTRAP | HTML5  | JAVASCRIPT | REACT JS  | REDUX | NEXT JS |  REACT NATIVE  | 
 
 
     En Curso
 
 | <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" alt="HTML"> | <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6McQQU7i--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/j4hwcf7lntmqyha7ras5.png" width="70" alt="CSS"> |
-| :------------: | :------------: |  
-| REACT NATIVE  | TYPE SCRIPT |  
+| :------------: |  
+TYPE SCRIPT |  
 
 
     Extras
