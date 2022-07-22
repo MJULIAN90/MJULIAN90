@@ -1,7 +1,7 @@
 <img src="https://images.unsplash.com/photo-1607743386760-88ac62b89b8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1650&q=80" alt="c" width="1000" height="300"/>
 
 <h3 align="center">
-Visitor count:
+You are the visitor:
     <p align="center">
         <img src="https://profile-counter.glitch.me/mjulian90/count.svg" />
     </p>
