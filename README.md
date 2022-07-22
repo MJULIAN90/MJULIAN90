@@ -1,5 +1,11 @@
 <img src="https://images.unsplash.com/photo-1607743386760-88ac62b89b8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1650&q=80" alt="c" width="1000" height="300"/>
 
+<h3 align="center">
+Visitor count:
+    <img src="https://profile-counter.glitch.me/mjulian90/count.svg" />
+</h3>
+
+
 Mi nombre es MARTIN JULIAN RUIZ 👋
 
 Soy desarrollador Full Stack y Tecnólogo en telecomunicaciones. Mi pasión es la programación y el aprendizaje de nuevas tecnologías para el desarrollo, con tendencia a la inteligencia artificial y la ciberseguridad. Tengo conocimiento en HTML | CSS | JavaScript | Python  | NodeJS | React | Redux | Bootstrap | PostgreSQL | Express | Sequelize | GitHub | Git | Web Socket IO | Material IU | Vercel | Heroku | Supabase | Next Js | React Native |  TypeScript | Ruby | Ruby on Rails.
