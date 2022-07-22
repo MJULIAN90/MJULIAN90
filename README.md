@@ -2,11 +2,13 @@
 
 <h3 align="center">
 Visitor count:
+    
     <p align="center">
         <img src="https://profile-counter.glitch.me/mjulian90/count.svg" />
     </p>
  </h3>
 
+********
 
 Mi nombre es MARTIN JULIAN RUIZ 👋
 
