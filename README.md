@@ -9,12 +9,11 @@ You are the visitor:
 
 ********
 
-Mi nombre es MARTIN JULIAN RUIZ 👋
+My name is MARTIN JULIAN RUIZ 👋👋👋
 
-Soy desarrollador Full Stack y Tecnólogo en telecomunicaciones. Mi pasión es la programación y el aprendizaje de nuevas tecnologías para el desarrollo, con tendencia a la inteligencia artificial y la ciberseguridad. Tengo conocimiento en HTML | CSS | JavaScript | Python  | NodeJS | React | Redux | Bootstrap | PostgreSQL | Express | Sequelize | GitHub | Git | Web Socket IO | Material IU | Vercel | Heroku | Supabase | Next Js | React Native |  TypeScript | Ruby | Ruby on Rails.
+I am a Full Stack Developer and Telecommunications Technologist. My passion is programming and learning new technologies for development, with a tendency to artificial intelligence and cybersecurity. I have knowledge in HTML | CSS | JavaScript | Python | NodeJS | React | Redux | Bootstrap | PostgreSQL | Express | Sequelize | GitHub | Git | Web Socket IO | Material IU | Vercel | Heroku | Supabase | Next Js | React Native | TypeScript | Ruby | Ruby on Rails | Solidity | Hardhat | Truffle | Web3 JS | Ethers JS | Chai | Mocha | IPFS | OpenZeppelin | Remix |.
 
-🧑 ¿Cómo me defino?
-Me considero apasionado por la programación, Una persona emprendedora con muchas ideas en el área de la información una persona apasionada por el aprendizaje constante de nuevas tecnologías y a la espera de los nuevos desafíos. Me encanta tener buena relaciones, mejorando la comunicación constante. Tengo constante búsqueda del progreso personal apoyando el desarrollo grupal de mis actividades cotidianas.
+🧑 How do I define myself? I consider myself passionate about programming, an entrepreneurial person with many ideas in the area of information, a person passionate about constantly learning new technologies and looking forward to new challenges. I love to have good relationships, improving constant communication. I have constant search for personal progress supporting the group development of my daily activities.
 
 ********
 <p align="center">
@@ -25,6 +24,19 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 <p align="center">
 <img src='https://github-readme-stats.vercel.app/api?username=MJULIAN90&show_icons=true&theme=radical' />
 </p>
+
+********
+
+    Blockchain
+
+
+| <img src="https://user-images.githubusercontent.com/58791994/181414516-34e5ab7e-9137-4be8-89bf-4bb33d88ac32.png" width="60" alt="HTML"> | <img src="https://user-images.githubusercontent.com/58791994/181414572-9ecb483d-b3f7-4dd9-a148-ef812493bec7.png" width="60" alt="CSS"> | <img src="https://user-images.githubusercontent.com/58791994/181414601-654b73af-3c45-4256-8531-57004c80fa7f.png" width="60" alt="JS">  | <img src="https://user-images.githubusercontent.com/58791994/181414651-f18560dc-a85b-442b-b61a-92cd2521a5dd.png" width="60"  alt="Ruby"> | <img src="https://user-images.githubusercontent.com/58791994/181414677-301cb5ec-63df-4b71-a480-52659f1d3fa3.png" width="60"  height="60" alt="REACT"> |
+| :------------: | :------------: | :------------: | :------------: | :------------: | 
+| SOLIDITY  | HARDHAT| TRUFFLE  | WEB3 | ETHERS | 
+| <img src="https://user-images.githubusercontent.com/58791994/181414718-c285ab7f-8720-4d7a-b72e-52689ad8d500.png" width="60" alt="HTML"> | <img src="https://user-images.githubusercontent.com/58791994/181414752-5255c059-1410-439d-a8d2-99305a96ebdb.png" width="60" alt="CSS"> | <img src="https://user-images.githubusercontent.com/58791994/181414770-45756ae6-3b79-41df-9bca-fb29e01a44ca.png"  width="60" alt="JS">  | <img src="https://user-images.githubusercontent.com/58791994/181414823-1fc39b37-564f-4159-9903-a9b2ad8c8c11.png"  width="60"  alt="Ruby"> | <img src="https://user-images.githubusercontent.com/58791994/181414892-37c9c5db-dead-4301-8412-5d0bbde22fd3.png" width="60"  height="60" alt="REACT"> |
+| CHAI  | MOCHA| IPFS  | OPEN ZEPPELIN | REMIX |
+
+
 
 ********
 
@@ -40,116 +52,120 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |  :------------: |
 | CSS3  | BOOTSTRAP | HTML5  | JAVASCRIPT | REACT JS  | REDUX | NEXT JS |  REACT NATIVE  | 
 
-
-
+    Extras
+    
+| <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbookface-images.s3.amazonaws.com%2Flogos%2F08f3d41684b91f7d68810459b2356ecb4819c382.png&f=1&nofb=1" width="60" alt="HTML"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdc722jrlp2zu8.cloudfront.net%2Fmedia%2Fcache%2F6e%2Fd2%2F6ed2408abf9bd0038b587018a116879d.jpg&f=1&nofb=1" width="60" alt="CSS"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FHeroku_logo.png&f=1&nofb=1" width="60" alt="JS">  | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogovtor.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fvercel-inc-logo-vector.png&f=1&nofb=1" width="60" alt="REACT"> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" alt="REACT"> | <img src="https://user-images.githubusercontent.com/58791994/181414029-347e486c-cd9e-487d-99a2-5fa2f2f8bd6f.png"  width="60" alt="REACT"> | <img src="https://user-images.githubusercontent.com/58791994/181414113-90325815-33a2-4931-af4b-1d95a4e1e5b1.png"  width="60" alt="REACT"> |
+| :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
+| SUPABASE  | SOCKET IO | HEROKU  | VERCEL | FIGMA | GIT | GITLAB |
 
     En Curso
 
 | <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6McQQU7i--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/j4hwcf7lntmqyha7ras5.png" width="70" alt="CSS"> |
 | :------------: |  
 TYPE SCRIPT |  
-
-
-    Extras
-    
-| <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbookface-images.s3.amazonaws.com%2Flogos%2F08f3d41684b91f7d68810459b2356ecb4819c382.png&f=1&nofb=1" width="60" alt="HTML"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdc722jrlp2zu8.cloudfront.net%2Fmedia%2Fcache%2F6e%2Fd2%2F6ed2408abf9bd0038b587018a116879d.jpg&f=1&nofb=1" width="60" alt="CSS"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FHeroku_logo.png&f=1&nofb=1" width="60" alt="JS">  | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogovtor.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fvercel-inc-logo-vector.png&f=1&nofb=1" width="60" alt="REACT"> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" alt="REACT"> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" alt="REACT"> |
-| :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
-| SUPABASE  | SOCKET IO | HEROKU  | VERCEL | FIGMA | GIT |
     
 ********
 
-<h1 align="center"> Mis Proyectos </h1>
+<h1 align="center"> PROJECTS </h1>
 
-## <a href="https://github.com/MJULIAN90/React-Native-wallet-usd-btc" target="_blank">ROCKET WALLET</a>
+## <a href="https://github.com/MJULIAN90/rocket_punk" target="_blank">Rocket Punks NTFS</a>
+<p>Rocket punk is a platform on the blockchain using solidity as a technology to develop smart contracts, react and web3 js for the graphical interface and MetaMask as a provider for the communication of the JSON-RPC protocol.</p>
 
-### ¿Qué es?
+***In the platform users can:***
 
-Se creyó una App para dispositivo móvil que permite el intercambio de la divisa USD por la criptomoneda BTC la cual se efectúa con el precio del instante del BTC en el mercado de criptodivisas la cual se van guardando en una base de datos que nos permite simular la funcionalidad de una wallet real.
-
-********
-
-### ¿Cómo se hizo?
-
-
-Se implementó tanto el back end, como el front end. En la parte del back end se utilizaron tecnologías como son:
-
-* Node Js que nos permite un entorno de tiempo de ejecución multiplataforma de JavaScript orientado a eventos asíncronos.
-
-* Express Js que nos permite el direccionamiento de las diferentes rutas creadas que serán utilizadas en nuestra aplicación móvil.
-
-* PostgreSQL que nos permite el uso de las bases de datos donde guardamos la información de los usuarios, tanto sus balances, registro de usuarios, movimientos de cada una de las cuentas que tenemos en el sistema.
-
-* Sequelize que es un ORM que permite a los usuarios llamar a funciones JavaScript para interactuar con SQL DB sin escribir consultas reales. Nos fue bastante útil para acelerar el tiempo de desarrollo de nuestra aplicación
-
-* React Native que fue el que nos permitió el desarrollo de la aplicación que podemos adecuar tanto para los sistemas IOS como los sistemas ANDROID.
+<ol>
+  <li>View list of its rocket avatars.</li>
+  <li>View features of a specific rocket punk.</li>
+  <li>Generate your rocket avatar.</li>
+  <li>Transfer your rocket avatar to another user.</li>
+</ol>
 
 <p align="center">
-<img  src="https://user-images.githubusercontent.com/76981775/130434735-5832e1c5-fbb9-4f6e-8787-2a2f222dd994.png" width="30%" height='500px'>
-<img  src="https://user-images.githubusercontent.com/76981775/130434806-dfa3df3f-69ca-4b7c-8df0-bc825ffaacff.png" width="30%" height='500px'>
-<img  src="https://user-images.githubusercontent.com/76981775/130434924-f18e20c0-70f4-4a06-b41e-ef3e89d9f8f6.png" width="30%" height='500px'>
+<img  src="https://user-images.githubusercontent.com/58791994/181682184-31a6f5cc-069f-453a-8fdb-9df3fa5bfc54.png" width="32%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/58791994/181682329-148cc760-c96f-4d61-abf4-7d0044fb6cfe.png" width="32%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/58791994/181682391-cc568570-856d-4aa8-9d70-e69ef13bdd6b.png" width="32%" height='250px'>
 </p>
-
-✔ web site: <a href="https://github.com/MJULIAN90/React-Native-wallet-usd-btc/blob/main/README.md" target="_blank">
-MAS INFORMACION
-</a> 
+<br/>
 
 ********
-
-## <a href="https://github.com/MJULIAN90/Peliculas-App-TS-Mobile" target="_blank">MOVIES APP</a>
-
-
-<p>
-Se creo una App en React Native con TypeScript en la cual consumimos una API externa que nos proporciona los datos de peliculas como las de mejor ranking , proximas a salir a cine y mas populares y ver sus principales caracteristicas como son: sus actores, su historia, su presupuesto y mucho mas.
-Agregamos diferentes librerias que nos permite extraer los colores de las imagenes para darles efectos de color de fondo a cada pelicula que vamos deslizando, Se implementaron diferentes hooks como el useContext , useEffect , useState , entre otros. se utilizo gradientes para dar una mejor apariencia a la App en sus estilos.  
-</p>
-
-<p align="center">
-<img  src="https://user-images.githubusercontent.com/76981775/134852270-54a8b55c-0cf6-4cdc-aae6-85d6f47429b1.png" width="40%" height='500px'>
-<img  src="https://user-images.githubusercontent.com/76981775/134852439-e5adf465-d6f4-4240-bbd0-f8addc74da5c.png" width="40%" height='500px'>
-</p>
-
-
-✔ web site: <a href="https://github.com/MJULIAN90/Peliculas-App-TS-Mobile" target="_blank">
-PROXIMAMENTE
-</a> 
-
-********
-
-
 
 ## <a href="https://github.com/MJULIAN90/Exchange-ProyectoFinal" target="_blank">ROCKET EXCHANGE</a>
 <p>
-Se Creo una plataforma que permite conectar a las personas a la red de blockchain donde pueden intercambiar sus activos por cualquier otra clase de divisas, tanto fiats como criptomonedas. 
+I create a platform that allows people to connect to the blockchain network where they can exchange their assets for any other kind of currencies, both fiat and cryptocurrencies.
 
-
- ***Para ello utilizamos la red Stellar, ahora bien ¿Por qué red Stellar?***
+ ***For this we use the Stellar network, but why Stellar network?***
 
 <ol>
-  <li>Permite la compatibilidad entre cualquier tipo de activos.</li>
-  <li>Los costos de operaciones son muy bajos.</li>
-  <li>El protocolo en el que está basado permite la escalabilidad a futuro (en cantidad de transacciones posibles a realizar).</li>
-  <li>Es sustentable ya que no hace uso de la minería porque la considera nociva al medio ambiente.</li>
+  <li>It allows compatibility between any type of assets.</li>
+  <li>Trading costs are very low.</li>
+  <li>The protocol on which it is based allows scalability in the future (in the number of possible transactions to be carried out).
+</li>
+  <li>It is sustainable since it does not make use of mining because it considers it harmful to the environment.
+</li>
 </ol>
 
-El objetivo es acercar a las personas en el intercambio de activos, mediante una interfaz sencilla y amigable que posibilita transacciones de forma segura y rápida entre dinero y criptodivisas.
+The objective is to bring people together in the exchange of assets, through a simple and friendly interface that enables secure and fast transactions between money and cryptocurrencies.
 </p>
 
-
 <p align="center">
-<img  src="https://user-images.githubusercontent.com/76981775/130149215-bbae8143-9fed-46b6-80dd-d6ca04d000e1.png" width="30%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/76981775/130149625-f01e6be0-6514-4c54-a6c1-948e3a4a601f.png" width="30%" height='250px'>
-<img  src="https://user-images.githubusercontent.com/76981775/130149667-fe25bee4-296c-4ed5-906e-7ffcecff1d5f.png" width="30%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/76981775/130149215-bbae8143-9fed-46b6-80dd-d6ca04d000e1.png" width="32%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/76981775/130149625-f01e6be0-6514-4c54-a6c1-948e3a4a601f.png" width="32%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/76981775/130149667-fe25bee4-296c-4ed5-906e-7ffcecff1d5f.png" width="32%" height='250px'>
 </p>
 
 ✔ web site: <a href="https://rocketxchange.vercel.app/" target="_blank">
 ROCKET EXCHANGE
-</a> 
+</a>
+
+********
+
+## <a href="https://github.com/MJULIAN90/sytem_voting_full" target="_blank">SYSTEM VOTING</a>
+<p>A voting system is implemented on blockchain using solidity as technology for the development of smart contracts, react and ethers for the graphical interface and MetaMask as a provider for the communication of the JSON-RPC protocol.</p>
+
+***In the platform users can:***
+
+<ol>
+  <li>Apply to become a candidate, entering their photo and required information.</li>
+  <li>Vote for a candidate.</li>
+  <li>Consult the number of votes for a candidate.</li>
+  <li>See the winner of the votes.</li>
+</ol>
+
+<p align="center">
+<img  src="https://user-images.githubusercontent.com/58791994/181675870-10487ca9-6644-440d-8c3c-dc8a6065328a.png" width="32%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/58791994/181675917-d60f7624-4fda-45e2-b6db-00cfa33e4df6.png" width="32%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/58791994/181676023-a86130e0-0c59-471b-b573-329b5f580498.png" width="32%" height='250px'>
+</p>
+<br/>
+
+********
+
+## <a href="https://github.com/MJULIAN90/System_lotery_full" target="_blank">SYSTEM LOTERY</a>
+<p>SystemLotery is a platform on the blockchain using solidity as a technology to develop smart contracts, react and ethers js for the graphical interface and MetaMask as a provider for the communication of the JSON-RPC protocol.</p>
+
+***In the platform users can:***
+
+<ol>
+  <li>See your balance.</li>
+  <li>Buy tokens.</li>
+  <li>Buy tickets.</li>
+  <li>See your tickets.</li>
+  <li>See the winner.</li>
+  <li>Withdraw or exchange your tokens for ether.</li>
+</ol>
+
+<p align="center">
+<img  src="https://user-images.githubusercontent.com/58791994/180840346-1cb9eecf-1708-4a74-90f0-051081a94b19.png" width="32%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/58791994/180841668-3daa2b74-b1bb-4fcb-8e60-38fcc9e37ab9.png" width="32%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/58791994/180843460-5c2e1565-8a31-4099-b094-ed90a0d57ecf.png" width="32%" height='250px'>
+</p>
+
+<br/>
 
 ********
  
-## <a href="https://github.com/MJULIAN90/MI-PI-Food-FT-13" target="_blank">PI-FOOD</a>
-<p>Desarrollo de una SPA (Single Page Application) utilizando React para el Front End y Redux como state management. En los estilos se implementó CSS puro sin uso de librerías externas.
-La SPA consume datos de una API (https://spoonacular.com/food-api) a través de un Back End desarrollado en Node.JS utilizando Express, agregando nuevas funcionalidades a la API original. En el proyecto se pueden encontrar filtros (por nombre, por tipos de alimentos, por orden alfabético, por tipos de dietas, tambien podemos ver las recetas creados desde mi proyecto) donde hay un formulario para la creación de nuevas recetas de alimentos que se almacenan en una base de datos realizada con Sequelize y PostgreSQL.</p>
+## <a href="https://github.com/MJULIAN90/MI-PI-Food-FT-13" target="_blank">MY RECIPES</a>
+<p>Development of a SPA (Single Page Application) using React for the Front End and Redux as state management. Pure CSS was implemented in the styles without the use of external libraries. The SPA consumes data from an API (https://spoonacular.com/food-api) through a Back End developed in Node.JS using Express, adding new functionalities to the original API. In the project you can find filters (by name, by types of food, by alphabetical order, by types of diets, we can also see the recipes created from my project) where there is a form for the creation of new food recipes that are stored in a database made with Sequelize and PostgreSQL.</p>
 
 
 <p align="center">
@@ -159,43 +175,49 @@ La SPA consume datos de una API (https://spoonacular.com/food-api) a través de 
 </p>
 
 ✔ web site: <a href="https://mi-pi-food-ft-13-mjulian90.vercel.app/" target="_blank">
-MIS RECETAS
+MY RECIPES
 </a> 
 
 ********
 
+## <a href="https://github.com/MJULIAN90/React-Native-wallet-usd-btc" target="_blank">ROCKET WALLET</a>
 
-## <a href="https://github.com/MJULIAN90/Marvel-App" target="_blank">MARVEL APP</a>
+### ¿Abount the proyect?
 
-### ¿Qué es?
-
-Es una App en React Native en la cual interactuamos con una API proporcionada por MARVEL en la cual podemos traer informacion de sus personajes , toda su informacion relacionada con sus historietas y una descripciones de ellas.
+I created an App for mobile devices that allows the exchange of the USD currency for the BTC cryptocurrency which is made with the instant price of BTC in the cryptocurrency market which is stored in a database that allows us to simulate the functionality of a real wallet.
 
 ********
+
+### ¿How was it done??
+
+
+Both the back end and the front end were implemented. In the back end we used technologies such as:
+
+* Node Js which allows us a cross-platform JavaScript runtime environment oriented to asynchronous events.
+
+* Express Js, which allows us to route the different routes created that will be used in our mobile application.
+
+* PostgreSQL that allows us to use the databases where we store the information of the users, both their balances, user registration, movements of each of the accounts that we have in the system.
+
+* Sequelize which is an ORM that allows users to call JavaScript functions to interact with SQL DB without writing actual queries. We found it quite useful to speed up the development time of our application.
+
+* React Native was the one that allowed us to develop the application that we can adapt for both IOS and ANDROID systems.
 
 <p align="center">
-<img  src="https://user-images.githubusercontent.com/76981775/131618702-19460633-794e-4a5d-9372-04178effb37b.png" width="30%" height='450px'>
-<img  src="https://user-images.githubusercontent.com/76981775/131618760-77c810d7-84aa-4311-affa-a904c7185bf0.png" width="30%" height='450px'>
-<img  src="https://user-images.githubusercontent.com/76981775/131618828-eeed9522-3983-4e49-8eff-6339a3d18e86.png" width="30%" height='450px'>
+<img  src="https://user-images.githubusercontent.com/76981775/130434735-5832e1c5-fbb9-4f6e-8787-2a2f222dd994.png" width="30%" height='500px'>
+<img  src="https://user-images.githubusercontent.com/76981775/130434806-dfa3df3f-69ca-4b7c-8df0-bc825ffaacff.png" width="30%" height='500px'>
+<img  src="https://user-images.githubusercontent.com/76981775/130434924-f18e20c0-70f4-4a06-b41e-ef3e89d9f8f6.png" width="30%" height='500px'>
 </p>
 
-********
-
-### ¿Cómo se hizo?
-
-Se utilizo react native expo para el desarrollo de la App, se implemento el metodo de navegacion de Stack Navigator con el cual nos ayuda a redirigirnos a otras paginas , y se centralizo todos los estilos en un archivo global.
-
-
-✔ web site:  <a href="https://www.youtube.com/watch?v=h9Hanc4Opic" target="_blank">
-MAS INFORMACION
+✔ web site: <a href="https://github.com/MJULIAN90/React-Native-wallet-usd-btc/blob/main/README.md" target="_blank">
+MORE INFORMATION
 </a> 
 
 ********
 
-
-  <hr/>
-    <p>
-Quieres saber más sobre mi?, ¡contáctame! <br/>
+<hr/>
+<p>
+Do you want to know more about me?, ¡contact me! <br/>
 ✔ Linkedin: <a href="https://www.linkedin.com/in/Julian-Ruiz-V/">
  www.linkedin.com/in/Julian-Ruiz-V
 </a> <br/>
