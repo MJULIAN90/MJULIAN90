@@ -68,7 +68,7 @@ TYPE SCRIPT |
 
 <h1 align="center"> PROJECTS </h1>
 
-## <a href="https://github.com/andresf2448/Health_System_Full" target="_blank">Health System</a>
+## <a href="https://github.com/MJULIAN90/Health-System" target="_blank">Health System</a>
 <p>A Health system is implemented on blockchain using solidity as technology for the development of smart contracts, react and ethers for the graphical interface and MetaMask as a provider for the communication of the JSON-RPC protocol. The platform includes the creation of services by the administrator and specialized services by a laboratory. In order to create the specialized services, a laboratory must create a subscription which represents the creation of a smart contract within the platform, as well as when a user wants to access the different services, he must create his subscription which also represents the creation of a smart contract. The platform operates with its own token named RC that was created with the OpenZeppelin ERC721 protocol standard.</p>
 
 <p align="center">
