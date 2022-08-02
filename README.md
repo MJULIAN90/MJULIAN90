@@ -68,6 +68,20 @@ TYPE SCRIPT |
 
 <h1 align="center"> PROJECTS </h1>
 
+## <a href="https://github.com/andresf2448/Health_System_Full" target="_blank">Health System</a>
+<p>A Health system is implemented on blockchain using solidity as technology for the development of smart contracts, react and ethers for the graphical interface and MetaMask as a provider for the communication of the JSON-RPC protocol. The platform includes the creation of services by the administrator and specialized services by a laboratory. In order to create the specialized services, a laboratory must create a subscription which represents the creation of a smart contract within the platform, as well as when a user wants to access the different services, he must create his subscription which also represents the creation of a smart contract. The platform operates with its own token named RC that was created with the OpenZeppelin ERC721 protocol standard.</p>
+
+<p align="center">
+<img  src="https://user-images.githubusercontent.com/58791994/182286742-5a2d7b83-83f5-436c-b000-5af08534ae6c.png" width="32%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/58791994/182281334-c9668c48-7148-4034-8da1-23e8bf201799.png" width="32%" height='250px'>
+<img  src="https://user-images.githubusercontent.com/58791994/182282339-1704c72a-1c33-4f58-8811-1c1f6c270e34.png" width="32%" height='250px'>
+</p>
+<br/>
+
+Collaborator: <a href="https://github.com/andresf2448" target="_blank">Andrés Felipe Velásquez Trujillo</a>
+
+****
+
 ## <a href="https://github.com/MJULIAN90/rocket_punk" target="_blank">Rocket Punks NTFS</a>
 <p>Rocket punk is a platform on the blockchain using solidity as a technology to develop smart contracts, react and web3 js for the graphical interface and MetaMask as a provider for the communication of the JSON-RPC protocol.</p>
 
@@ -86,6 +100,8 @@ TYPE SCRIPT |
 <img  src="https://user-images.githubusercontent.com/58791994/181682391-cc568570-856d-4aa8-9d70-e69ef13bdd6b.png" width="32%" height='250px'>
 </p>
 <br/>
+
+Collaborator: <a href="https://github.com/andresf2448" target="_blank">Andrés Felipe Velásquez Trujillo</a>
 
 ********
 
@@ -138,6 +154,8 @@ ROCKET EXCHANGE
 </p>
 <br/>
 
+Collaborator: <a href="https://github.com/andresf2448" target="_blank">Andrés Felipe Velásquez Trujillo</a>
+
 ********
 
 ## <a href="https://github.com/MJULIAN90/System_lotery_full" target="_blank">SYSTEM LOTERY</a>
@@ -161,6 +179,8 @@ ROCKET EXCHANGE
 </p>
 
 <br/>
+
+Collaborator: <a href="https://github.com/andresf2448" target="_blank">Andrés Felipe Velásquez Trujillo</a>
 
 ********
  
