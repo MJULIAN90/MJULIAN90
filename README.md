@@ -129,10 +129,6 @@ The objective is to bring people together in the exchange of assets, through a s
 <img  src="https://user-images.githubusercontent.com/76981775/130149667-fe25bee4-296c-4ed5-906e-7ffcecff1d5f.png" width="32%" height='250px'>
 </p>
 
-✔ web site: <a href="https://rocketxchange.vercel.app/" target="_blank">
-ROCKET EXCHANGE
-</a>
-
 ********
 
 ## <a href="https://github.com/MJULIAN90/sytem_voting_full" target="_blank">SYSTEM VOTING</a>
