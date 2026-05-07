@@ -90,12 +90,11 @@ Currently working on modern Web3 ecosystems combining frontend, backend, protoco
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 <p align="center">
-<b>React</b> • <b>Next.js</b> • <b>TypeScript</b> • <b>Node.js</b> • <b>Express</b> • <b>PostgreSQL</b> • <b>Supabase</b> • <b>Git</b>
+<b>React</b> • <b>Next.js</b> • <b>TypeScript</b> • <b>Node.js</b> • <b>Express</b> • <b>PostgreSQL</b> • <b>Git</b>
 </p>
 
 ---
