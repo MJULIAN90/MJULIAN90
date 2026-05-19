@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=2070&auto=format&fit=crop" width="100%" height="320"/>
+<img src="https://t3.ftcdn.net/jpg/02/87/64/68/360_F_287646869_EpBkmeh4ESmhE8jmSRYd8JH1BVfXoRxs.jpg" width="100%" height="320"/>
 
 <h1 align="center">Julian Ruiz</h1>
 
